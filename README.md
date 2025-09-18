@@ -2,7 +2,8 @@
 AI/ML projects, including RAG implementations and Terraform-based MLOps pipelines.
 
 2. Folder Structure:
-<div><imag src="image.png"></div>
+<div><img src="image.png"></div>
+<img src="image.png">
 
 
 3. nstall Dependencies (for local testing):
