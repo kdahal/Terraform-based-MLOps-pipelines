@@ -2,21 +2,7 @@
 AI/ML projects, including RAG implementations and Terraform-based MLOps pipelines.
 
 2. Folder Structure:
-ai-ml-contributions/
-├── README.md
-├── CONTRIBUTING.md
-├── LICENSE  (use MIT for open-source friendliness)
-├── requirements.txt  (for Python dependencies)
-├── rag-implementations/
-│   ├── README.md
-│   ├── basic_rag.py  (Simple RAG with LangChain and FAISS)
-│   └── advanced_rag_pipeline.py  (RAG with streaming and evaluation)
-└── mlops-terraform/
-    ├── README.md
-    ├── main.tf  (Extended from previous example)
-    ├── variables.tf
-    ├── outputs.tf
-    └── sagemaker_pipeline.tf  (For automated ML pipelines)
+<div><imag src="image.png"></div>
 
 
 3. nstall Dependencies (for local testing):
